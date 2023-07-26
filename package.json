@@ -1,5 +1,7 @@
 {
+    "name": "framework-threejs",
     "author": "zerodeleo",
+    "version": "0.0.1",
     "repository": "framework-threejs",
     "license": "UNLICENSED",
     "scripts": {
