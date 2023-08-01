@@ -29,7 +29,7 @@ zerodeleo`,
       }
     );
     const TEXT_MESH = new THREE.Mesh(TEXT_GEOMETRY, MATERIAL_PINK_600);
-    TEXT_MESH.position.set(0, -5, 0);
+    TEXT_MESH.position.set(0, 5, 0);
     TEXT_GEOMETRY.center();
     SCENE.add(TEXT_MESH);
   });
